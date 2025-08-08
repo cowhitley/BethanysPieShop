@@ -9,22 +9,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0eba85e0-16f0-4da1-8a2b-bca37bdaf1c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BethanysPieShopHRM/Components/Pages/EmployeeOverview.razor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BethanysPieShopHRM/Components/Pages/EmployeeOverview.razor.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BethanysPieShopHRM/Components/Services/MockDataService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BethanysPieShopHRM/Components/Pages/EmployeeDetail.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BethanysPieShopHRM/Components/Pages/EmployeeDetail.razor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BethanysPieShopHRM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BethanysPieShopHRM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BethanysPieShopHRM/Components/Pages/EmployeeOverview.razor" beforeDir="false" afterPath="$PROJECT_DIR$/BethanysPieShopHRM/Components/Pages/EmployeeOverview.razor" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;cowhitley&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/cowhitley/BethanysPieShop.git&quot;,
+    &quot;accountId&quot;: &quot;2a435b65-23bc-4b08-85ec-260da6b71893&quot;
+  }
+}</component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
 }</component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -33,21 +51,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.BethanysPieShopHRM: http.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.BethanysPieShopHRM: http">
     <configuration name="BethanysPieShopHRM: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/BethanysPieShopHRM/BethanysPieShopHRM.csproj" />
@@ -89,12 +108,15 @@
       <updated>1754317790397</updated>
       <workItem from="1754317791579" duration="36000" />
       <workItem from="1754317837827" duration="1838000" />
+      <workItem from="1754662402302" duration="3188000" />
+      <workItem from="1754672051627" duration="732000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
